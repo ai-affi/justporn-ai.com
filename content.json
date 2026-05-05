@@ -66,7 +66,7 @@
     ]
   },
   "how_it_works": {
-    "title": "How It Works",
+    "title": "How Does JustPorn.ai Work?",
     "subtitle": "Get started in minutes with our simple 4-step process",
     "steps": [
       {
@@ -89,12 +89,81 @@
         "title": "Generate",
         "description": "Get your custom AI content instantly. Download, save, or create more."
       }
-    ]
+    ],
+    "detailed": {
+      "title": "How Does JustPorn.ai Work?",
+      "subtitle": "Your complete guide to creating AI adult content",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Create Your Free Account",
+          "description": "Sign up in seconds with just your email. No credit card required to start. Get 100 free tokens every month to explore the platform and test our AI generation capabilities."
+        },
+        {
+          "step": 2,
+          "title": "Choose Your Content Type",
+          "description": "Select from realistic, anime, or fantasy modes. Each mode uses specialized AI models trained for specific visual styles. Pick from 100+ poses or describe your own custom scenario."
+        },
+        {
+          "step": 3,
+          "title": "Customize Every Detail",
+          "description": "Use our advanced customization tools to tailor body type, facial features, outfits, settings, and lighting. The AI understands detailed prompts for fully personalized NSFW visuals."
+        },
+        {
+          "step": 4,
+          "title": "Generate & Enjoy",
+          "description": "Hit generate and receive high-quality results in under 10 seconds. Download, save to your private gallery, or continue refining. Premium users unlock videos, voice messages, and faster speeds."
+        }
+      ]
+    }
+  },
+  "comparison": {
+    "title": "JustPorn.ai vs Other AI Adult Generators",
+    "subtitle": "See why users choose JustPorn.ai over the competition",
+    "intro": "The AI adult content market has exploded with options, but not all generators deliver the same quality, speed, and privacy. We compared JustPorn.ai against the most popular alternatives to show you exactly what sets us apart.",
+    "table": {
+      "headers": ["Feature", "JustPorn.ai", "Competitor A", "Competitor B"],
+      "rows": [
+        ["Free Monthly Tokens", "100 tokens", "10 tokens", "None"],
+        ["Unlimited Free Messages", "Yes", "No", "No"],
+        ["Image Generation", "HD quality", "Standard", "Standard"],
+        ["Video Generation", "Included", "Extra cost", "Not available"],
+        ["Voice Messages", "Unlocked", "Premium only", "Not available"],
+        ["Response Time", "5x faster", "Standard", "Slow"],
+        ["Privacy & Encryption", "Advanced", "Basic", "Basic"],
+        ["Custom Poses", "100+", "20", "10"],
+        ["Anime/Fantasy Modes", "Yes", "Extra cost", "Limited"],
+        ["Price (Monthly)", "$7.99", "$14.99", "$19.99"]
+      ]
+    },
+    "sections": [
+      {
+        "title": "More Free Value",
+        "content": "While most competitors offer 10 or fewer free generations, JustPorn.ai gives you 100 free tokens every single month plus unlimited free messages. Test the platform thoroughly before committing to premium."
+      },
+      {
+        "title": "Faster Generation Speed",
+        "content": "Our optimized infrastructure delivers results up to 5x faster than competing platforms. What takes 30-60 seconds elsewhere happens in under 10 seconds on JustPorn.ai."
+      },
+      {
+        "title": "Complete Feature Set",
+        "content": "Unlike competitors that lock videos and voice behind expensive tiers, JustPorn.ai includes video generation, voice messages, and photo unlocking in all premium plans."
+      },
+      {
+        "title": "Better Privacy Protection",
+        "content": "We use advanced encryption and never share your data. Your generations are private by default with no watermarks on premium content."
+      }
+    ],
+    "cta": "Experience the Difference - Try JustPorn.ai Free"
   },
   "pricing": {
     "title": "Choose Your Plan",
-    "subtitle": "Start free, upgrade when you are ready. Flexible plans for every creator.",
+    "subtitle": "Limited Time Offer - Up to 75% off your first subscription!",
     "most_popular": "Most Popular",
+    "promo_label": "Limited Time Offer",
+    "promo_text": "Up to 75% of your first subscription!",
+    "pay_by": "Pay by:",
+    "promocode": "Promocode",
     "plans": [
       {
         "id": "free",
@@ -104,10 +173,13 @@
         "price": "$0",
         "period": "forever",
         "features": [
-          "10 free generations",
-          "Basic quality",
-          "Standard speed",
-          "Watermarked images"
+          "Unlimited Free Messages",
+          "100 Free Tokens a Month",
+          "Generate Images & Unlock Photos",
+          "Unlock Voice Messages",
+          "Unlock Videos",
+          "5x Faster Response time",
+          "Unlock all premium features"
         ],
         "cta_text": "Sign Up Free",
         "popular": false
@@ -119,16 +191,14 @@
         "badge_color": "blue",
         "price_initial": "$2.99",
         "price_rebill": "$14.99",
-        "period": "then monthly",
+        "period": "for 7 days",
         "features": [
-          "200 tokens included",
-          "50 bonus trial tokens",
-          "HD quality output",
-          "Fast generation queue",
-          "No watermark"
+          "All Premium features + 50 tokens",
+          "Full access for 7 days",
+          "Cancel anytime"
         ],
         "cta_text": "Start Trial",
-        "popular": true
+        "popular": false
       },
       {
         "id": "monthly",
@@ -137,32 +207,33 @@
         "badge_color": "green",
         "price_initial": "$7.99",
         "price_rebill": "$14.99",
-        "price_old": "$25.99",
-        "period": "per month",
+        "price_old": "$14.99",
+        "save_amount": "$7.00",
+        "period": "/month",
         "features": [
+          "All Premium features",
           "200 tokens per month",
-          "All styles unlocked",
           "Priority generation",
-          "5 video generations per month"
+          "No watermark"
         ],
         "cta_text": "Subscribe",
-        "popular": false
+        "popular": true
       },
       {
         "id": "quarterly",
-        "name": "Quarterly",
+        "name": "Per 3 Months",
         "badge": "70% OFF",
         "badge_color": "orange",
         "price_initial": "$15.99",
         "price_rebill": "$29.99",
-        "price_old": "$77.97",
-        "save_amount": "$48.00",
-        "period": "per 3 months",
+        "price_old": "$29.99",
+        "save_amount": "$14.00",
+        "period": "$5.33/month",
         "features": [
+          "All Premium features",
           "200 tokens per month",
-          "All features included",
-          "20 video generations per quarter",
-          "Priority email support"
+          "Priority support",
+          "Save $14.00"
         ],
         "cta_text": "Subscribe",
         "popular": false
@@ -174,14 +245,14 @@
         "badge_color": "gold",
         "price_initial": "$49.99",
         "price_rebill": "$89.99",
-        "price_old": "$311.88",
-        "save_amount": "$241.89",
-        "period": "per year",
+        "price_old": "$89.99",
+        "save_amount": "$40.00",
+        "period": "$4.17/month",
         "features": [
+          "All Premium features",
           "200 tokens per month",
-          "Unlimited video generation",
-          "VIP early access to new features",
-          "24/7 priority support"
+          "VIP early access",
+          "Save $40.00"
         ],
         "cta_text": "Get Best Deal",
         "popular": false
@@ -192,7 +263,7 @@
         "badge": "Limited Availability",
         "badge_color": "red",
         "price": "$29.99",
-        "period": "per month",
+        "period": "/month",
         "features": [
           "500 tokens per month",
           "Exclusive AI models",
@@ -211,7 +282,7 @@
     "items": [
       {
         "question": "Is JustPorn.ai free to use?",
-        "answer": "Yes, you can start for free with 10 generations. Premium plans unlock unlimited creation and advanced features like HD quality, video generation, and priority processing."
+        "answer": "Yes! You get unlimited free messages and 100 free tokens every month. Premium plans unlock additional features like faster generation, video creation, and more tokens."
       },
       {
         "question": "What content can I generate?",
@@ -223,7 +294,7 @@
       },
       {
         "question": "How do tokens work?",
-        "answer": "Each generation costs tokens. Free users get 10 tokens to start. Paid plans include monthly token allowances (200-500 depending on your plan). Additional tokens can be purchased anytime from your account."
+        "answer": "Each generation costs tokens. Free users get 100 tokens monthly. Paid plans include monthly token allowances (200-500 depending on your plan). Additional tokens can be purchased anytime from your account."
       },
       {
         "question": "Can I cancel my subscription?",
