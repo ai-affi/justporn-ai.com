@@ -185,12 +185,13 @@
         <!-- Hero Visual -->
         <div class="relative">
           <div class="glass rounded-2xl p-2 aspect-video flex items-center justify-center relative overflow-hidden">
-            <div class="absolute inset-0 gradient-cta opacity-10"></div>
-            <div class="text-center z-10">
-              <div class="w-20 h-20 mx-auto mb-4 rounded-full gradient-cta flex items-center justify-center">
-                <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
-              </div>
-              <p class="text-jp-text-secondary text-sm" data-i18n="hero.video_placeholder"></p>
+            <video autoplay muted loop playsinline class="absolute inset-0 w-full h-full object-cover rounded-xl" poster="blond.webp">
+              <source src="justporn.mp4" type="video/mp4">
+            </video>
+            <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent"></div>
+            <div class="absolute bottom-4 left-4 flex items-center gap-2">
+              <span class="w-2 h-2 bg-jp-green rounded-full animate-pulse"></span>
+              <span class="text-xs text-white/80">Live Demo</span>
             </div>
           </div>
           <!-- Floating badges -->
@@ -215,6 +216,58 @@
       
       <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6" id="features-grid">
         <!-- Features injected via JS from JSON -->
+      </div>
+    </div>
+  </section>
+
+  <!-- MODELS SECTION -->
+  <section id="models" class="py-24 relative">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-16 scroll-reveal">
+        <h2 class="text-3xl sm:text-4xl font-bold mb-4">Models on JustPorn.ai</h2>
+        <p class="text-jp-text-secondary max-w-2xl mx-auto">Discover our most popular AI-generated models. Each one is fully customizable to match your preferences.</p>
+      </div>
+      
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6" id="models-grid">
+        <div class="glass rounded-xl overflow-hidden card-hover scroll-reveal">
+          <div class="aspect-[3/4] overflow-hidden">
+            <img src="asian.webp" alt="Asian Model" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
+          </div>
+          <div class="p-4">
+            <h3 class="font-semibold mb-1">Asian Beauty</h3>
+            <p class="text-sm text-jp-text-secondary">Elegant and mysterious. Generate stunning Asian-inspired content with delicate features.</p>
+          </div>
+        </div>
+        
+        <div class="glass rounded-xl overflow-hidden card-hover scroll-reveal" style="transition-delay: 0.1s">
+          <div class="aspect-[3/4] overflow-hidden">
+            <img src="black%20girl.webp" alt="Black Girl Model" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
+          </div>
+          <div class="p-4">
+            <h3 class="font-semibold mb-1">Ebony Goddess</h3>
+            <p class="text-sm text-jp-text-secondary">Bold and beautiful. Create powerful content with striking curves and confidence.</p>
+          </div>
+        </div>
+        
+        <div class="glass rounded-xl overflow-hidden card-hover scroll-reveal" style="transition-delay: 0.2s">
+          <div class="aspect-[3/4] overflow-hidden">
+            <img src="blond.webp" alt="Blonde Model" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
+          </div>
+          <div class="p-4">
+            <h3 class="font-semibold mb-1">Blonde Bombshell</h3>
+            <p class="text-sm text-jp-text-secondary">Classic allure. Generate timeless blonde content with captivating blue eyes.</p>
+          </div>
+        </div>
+        
+        <div class="glass rounded-xl overflow-hidden card-hover scroll-reveal" style="transition-delay: 0.3s">
+          <div class="aspect-[3/4] overflow-hidden">
+            <img src="blond_milf.webp" alt="Blonde MILF Model" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
+          </div>
+          <div class="p-4">
+            <h3 class="font-semibold mb-1">MILF Fantasy</h3>
+            <p class="text-sm text-jp-text-secondary">Experienced charm. Create mature content with sophistication and sensual appeal.</p>
+          </div>
+        </div>
       </div>
     </div>
   </section>
