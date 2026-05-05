@@ -1,9 +1,0 @@
-{
-  "name": "justporn-ai-affiliation",
-  "version": "1.0.0",
-  "description": "JustPorn.ai affiliation landing page",
-  "scripts": {
-    "build": "echo 'Static site - no build needed'",
-    "deploy": "bash deploy.sh"
-  }
-}
