@@ -122,36 +122,58 @@
     "subtitle": "See why users choose JustPorn.ai over the competition",
     "intro": "The AI adult content market has exploded with options, but not all generators deliver the same quality, speed, and privacy. We compared JustPorn.ai against the most popular alternatives to show you exactly what sets us apart.",
     "table": {
-      "headers": ["Feature", "JustPorn.ai", "Competitor A", "Competitor B"],
+      "headers": ["Feature", "JustPorn.ai", "DarLink AI", "LusyChat", "eHentai", "MyLovely"],
       "rows": [
-        ["Free Monthly Tokens", "100 tokens", "10 tokens", "None"],
-        ["Unlimited Free Messages", "Yes", "No", "No"],
-        ["Image Generation", "HD quality", "Standard", "Standard"],
-        ["Video Generation", "Included", "Extra cost", "Not available"],
-        ["Voice Messages", "Unlocked", "Premium only", "Not available"],
-        ["Response Time", "5x faster", "Standard", "Slow"],
-        ["Privacy & Encryption", "Advanced", "Basic", "Basic"],
-        ["Custom Poses", "100+", "20", "10"],
-        ["Anime/Fantasy Modes", "Yes", "Extra cost", "Limited"],
-        ["Price (Monthly)", "$7.99", "$14.99", "$19.99"]
+        ["Free Monthly Tokens", "100 tokens", "Limited", "Coins system", "None", "Free tier"],
+        ["Unlimited Free Messages", "Yes", "No", "No", "N/A", "Yes"],
+        ["Image Generation", "HD quality", "Standard", "Standard", "HD hentai", "Standard"],
+        ["Video Generation", "Included", "Available", "Not available", "Not available", "Not available"],
+        ["Voice Messages", "Unlocked", "Available", "Not available", "N/A", "Not available"],
+        ["Response Time", "5x faster", "Standard", "Standard", "Standard", "Standard"],
+        ["Privacy & Encryption", "Advanced", "Basic", "Basic", "Basic", "Basic"],
+        ["Custom Poses", "100+", "Limited", "20+", "N/A", "Limited"],
+        ["Anime/Fantasy Modes", "Yes", "Yes", "Yes", "Hentai only", "Limited"],
+        ["NSFW/SFW Toggle", "Yes", "Yes", "Yes", "NSFW only", "Yes"],
+        ["Price (Monthly)", "$7.99", "$12.99", "$9.99", "Varies", "$9.99"],
+        ["Commission Rate", "50%", "20%", "20%", "40%", "50%"]
       ]
     },
     "sections": [
       {
         "title": "More Free Value",
-        "content": "While most competitors offer 10 or fewer free generations, JustPorn.ai gives you 100 free tokens every single month plus unlimited free messages. Test the platform thoroughly before committing to premium."
+        "content": "While most competitors offer limited or no free generations, JustPorn.ai gives you 100 free tokens every single month plus unlimited free messages. DarLink AI and LusyChat restrict free users heavily, while eHentai offers no free tier at all. Test the platform thoroughly before committing to premium."
       },
       {
         "title": "Faster Generation Speed",
-        "content": "Our optimized infrastructure delivers results up to 5x faster than competing platforms. What takes 30-60 seconds elsewhere happens in under 10 seconds on JustPorn.ai."
+        "content": "Our optimized infrastructure delivers results up to 5x faster than competing platforms. What takes 30-60 seconds on DarLink AI, LusyChat, or MyLovely happens in under 10 seconds on JustPorn.ai. No more waiting around for your content."
       },
       {
         "title": "Complete Feature Set",
-        "content": "Unlike competitors that lock videos and voice behind expensive tiers, JustPorn.ai includes video generation, voice messages, and photo unlocking in all premium plans."
+        "content": "Unlike competitors that lock videos and voice behind expensive tiers, JustPorn.ai includes video generation, voice messages, and photo unlocking in all premium plans. DarLink AI charges extra for video, while LusyChat, eHentai, and MyLovely don't offer video generation at all."
       },
       {
         "title": "Better Privacy Protection",
-        "content": "We use advanced encryption and never share your data. Your generations are private by default with no watermarks on premium content."
+        "content": "We use advanced encryption and never share your data. Your generations are private by default with no watermarks on premium content. While all platforms claim privacy, JustPorn.ai goes further with Swiss-grade encryption standards."
+      },
+      {
+        "title": "DarLink AI - Limited Free Tier",
+        "content": "DarLink AI markets itself as a free AI girlfriend generator with chat, photos, and video capabilities. However, their free tier is extremely limited - you get barely enough tokens to test the platform. Based in Switzerland under FAMELINK SA, DarLink AI focuses more on the girlfriend simulation aspect rather than pure content generation. Their pricing starts at $12.99/month with only a 20% affiliate commission. While they offer NSFW/SFW toggle and custom characters, their video generation requires expensive add-ons and their response times are noticeably slower than JustPorn.ai. The platform feels more like a dating sim than a serious content creation tool."
+      },
+      {
+        "title": "LusyChat - Coin System Trap",
+        "content": "LusyChat operates on a frustrating coin-based system where free users quickly run out of currency and must constantly purchase more. Their NSFW character AI chat focuses heavily on roleplay rather than visual content generation. While they offer character creation and image generation, the quality is standard at best. Their 70% OFF promotions are misleading - the base prices are inflated to make discounts seem larger. At $9.99/month with only 20% affiliate commission, LusyChat provides poor value compared to JustPorn.ai's straightforward token system. They also lack video generation entirely and their voice features are non-existent. The platform is more suitable for text-based roleplay enthusiasts than serious content creators."
+      },
+      {
+        "title": "eHentai - Niche Limitations",
+        "content": "eHentai.ai specializes exclusively in AI hentai art generation, which immediately limits its appeal to a narrow audience. Unlike JustPorn.ai which offers realistic, anime, and fantasy modes, eHentai is locked into a single style. They offer no free tier whatsoever - you must pay before generating anything. Their commission structure at 40% seems attractive until you realize the platform has no chat features, no video generation, no voice capabilities, and no girlfriend simulation aspects. The pricing is variable and opaque, making it difficult to budget. For users wanting diverse content types beyond hentai, eHentai is simply not a viable option. JustPorn.ai covers the hentai audience while serving many others."
+      },
+      {
+        "title": "MyLovely - Basic Features",
+        "content": "MyLovely AI positions itself as an AI girlfriend free chat and love simulator, but the reality falls short of the marketing. While they do offer a free tier, the feature set is extremely basic compared to JustPorn.ai. MyLovely lacks video generation completely, offers no voice messaging, and their image generation quality is standard at best. The custom pose selection is minimal and the anime/fantasy modes are severely limited. At $9.99/month with 50% commission, the pricing seems competitive until you factor in the missing features. MyLovely works as a simple chatbot but fails as a comprehensive content creation platform. Users quickly outgrow its capabilities and migrate to more advanced solutions like JustPorn.ai."
+      },
+      {
+        "title": "Why JustPorn.ai Wins",
+        "content": "JustPorn.ai dominates the AI adult content space by combining the best features of all competitors while eliminating their weaknesses. We offer 100 free monthly tokens with unlimited messages - more generous than DarLink AI's restrictions, LusyChat's coin traps, eHentai's paywall, and comparable to MyLovely's limited free tier. Our video generation is included, not extra like DarLink AI or non-existent like the others. We provide 100+ custom poses versus the limited libraries elsewhere. Our 5x faster response time means less waiting and more creating. With HD quality across realistic, anime, and fantasy modes, advanced privacy encryption, and transparent pricing at $7.99/month, JustPorn.ai delivers unmatched value. The 50% affiliate commission is among the highest in the industry, proving our confidence in the product."
       }
     ],
     "cta": "Experience the Difference - Try JustPorn.ai Free"

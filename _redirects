@@ -1,3 +1,18 @@
-# Redirections d'affiliation - Cloudflare Pages
-/go/justporn    https://justporn.ai/?ref=AFFILIATE_ID    301
-/go/trial       https://justporn.ai/plans?ref=AFFILIATE_ID    301
+# Affiliate Link Cloaking - JustPorn.ai
+# All redirects are 302 (temporary) with nofollow behavior
+# Format: /path target status
+
+# DarLink AI - 20% commission
+/darlink https://darlink.ai?fpr=anto98 302
+
+# LusyChat - 20% commission  
+/lusychat https://lusychat.ai/?ref=GAUTVLZA 302
+
+# eHentai - 40% commission
+/ehentai https://sdg22.com/@6LayrIxr?cmp=ehantai 302
+
+# MyLovely - 50% commission
+/mylovely https://www.mylovely.ai/?ref=antonin 302
+
+# JustPorn (self) - 50% commission
+/go https://sdg22.com/@swI4YvKq?cmp=justpornai 302

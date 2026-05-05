@@ -399,7 +399,7 @@
     // CONFIGURATION - Changez l'ID affilié ici
     // ============================================
     const AFFILIATE_ID = 'AFFILIATE_ID';
-    const AFFILIATE_BASE_URL = 'https://justporn.ai/';
+    const AFFILIATE_BASE_URL = '/go';
     
     // ============================================
     // i18n SYSTEM - Charge le JSON et injecte les textes
@@ -518,12 +518,15 @@
       if (comparison.table) {
         const headers = comparison.table.headers || [];
         const rows = comparison.table.rows || [];
+        const affiliateLinks = ['', '', '/darlink', '/lusychat', '/ehentai', '/mylovely'];
         
         tableContainer.innerHTML = `
           <thead>
             <tr class="border-b border-jp-border">
               ${headers.map((h, i) => `
-                <th class="py-4 px-4 ${i === 0 ? 'text-left' : 'text-center'} ${i === 1 ? 'text-jp-rose' : ''} font-semibold">${h}</th>
+                <th class="py-4 px-4 ${i === 0 ? 'text-left' : 'text-center'} ${i === 1 ? 'text-jp-rose' : ''} font-semibold">
+                  ${affiliateLinks[i] ? `<a href="${affiliateLinks[i]}" rel="nofollow" class="hover:text-jp-rose transition-colors">${h}</a>` : h}
+                </th>
               `).join('')}
             </tr>
           </thead>
