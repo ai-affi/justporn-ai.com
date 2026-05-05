@@ -1,371 +1,371 @@
 {
   "site": {
     "name": "JustPorn.ai",
-    "tagline": "Générateur de Porno IA - Créez du Contenu Adulte Personnalisé"
+    "tagline": "Generatore di Porno IA - Crea Contenuti per Adulti Personalizzati"
   },
   "meta": {
-    "title": "Générateur de Porno IA - Créez du Contenu Adulte Personnalisé - JustPorn.ai",
-    "description": "Découvrez le générateur de porno IA de JustPorn pour créer facilement du contenu adulte personnalisé et de haute qualité. Explorez notre technologie IA avancée pour une expérience unique !",
-    "og_title": "Générateur de Porno IA - Créez du Contenu Adulte Personnalisé - JustPorn.ai",
-    "og_description": "Découvrez le générateur de porno IA de JustPorn pour créer facilement du contenu adulte personnalisé et de haute qualité."
+    "title": "Generatore di Porno IA - Crea Contenuti per Adulti Personalizzati - JustPorn.ai",
+    "description": "Scopri il generatore di porno IA di JustPorn per creare facilmente contenuti per adulti personalizzati e di alta qualità. Esplora la nostra tecnologia IA avanzata per un'esperienza unica!",
+    "og_title": "Generatore di Porno IA - Crea Contenuti per Adulti Personalizzati - JustPorn.ai",
+    "og_description": "Scopri il generatore di porno IA di JustPorn per creare facilmente contenuti per adulti personalizzati e di alta qualità."
   },
   "nav": {
-    "features": "Fonctionnalités",
-    "how_it_works": "Comment ça marche",
-    "pricing": "Tarifs",
+    "features": "Funzionalità",
+    "how_it_works": "Come Funziona",
+    "pricing": "Prezzi",
     "faq": "FAQ",
-    "cta_try_free": "Essayer Gratuitement",
-    "cta_premium": "Passer Premium"
+    "cta_try_free": "Prova Gratis",
+    "cta_premium": "Passa a Premium"
   },
   "hero": {
-    "badge": "#1 Générateur de Porno IA 2026",
-    "h1_line1": "Générateur de Porno IA",
-    "h1_line2": "Créez du Contenu Adulte Personnalisé",
-    "subtitle": "Découvrez le générateur de porno IA de JustPorn pour créer facilement du contenu adulte personnalisé et de haute qualité. Explorez notre technologie IA avancée pour une expérience unique !",
-    "social_proof": "Plus de 50 000 utilisateurs | Plus d'1 million d'images générées",
-    "cta_primary": "Générer Maintenant",
-    "cta_secondary": "Voir les Tarifs",
-    "video_placeholder": "Regarder la Démo Vidéo",
-    "live_indicator": "Génération en Direct",
-    "generations_counter": "Plus d'1M Générées"
+    "badge": "#1 Generatore di Porno IA 2026",
+    "h1_line1": "Generatore di Porno IA",
+    "h1_line2": "Crea Contenuti per Adulti Personalizzati",
+    "subtitle": "Scopri il generatore di porno IA di JustPorn per creare facilmente contenuti per adulti personalizzati e di alta qualità. Esplora la nostra tecnologia IA avanzata per un'esperienza unica!",
+    "social_proof": "Oltre 50.000 utenti | Oltre 1 milione di immagini generate",
+    "cta_primary": "Genera Ora",
+    "cta_secondary": "Vedi i Prezzi",
+    "video_placeholder": "Guarda il Video Demo",
+    "live_indicator": "Generazione in Diretta",
+    "generations_counter": "Oltre 1M Generate"
   },
   "features": {
-    "title": "Fonctionnalités Puissantes",
-    "subtitle": "Tout ce dont vous avez besoin pour créer du contenu adulte IA époustouflant en toute simplicité",
+    "title": "Funzionalità Potenti",
+    "subtitle": "Tutto ciò di cui hai bisogno per creare contenuti per adulti generati dall'IA in modo semplice e straordinario",
     "items": [
       {
         "icon": "palette",
-        "title": "Générateur d'Images IA",
-        "description": "Créez des images NSFW réalistes, anime ou fantasy en quelques secondes grâce à nos modèles IA avancés."
+        "title": "Generatore di Immagini IA",
+        "description": "Crea immagini NSFW realistiche, anime o fantasy in pochi secondi con i nostri modelli IA avanzati."
       },
       {
         "icon": "video",
-        "title": "Générateur de Vidéos IA",
-        "description": "Générez de courtes vidéos adultes avec des mouvements réalistes et des transitions fluides."
+        "title": "Generatore di Video IA",
+        "description": "Genera brevi video per adulti con movimenti realistici e transizioni fluide grazie all'IA."
       },
       {
         "icon": "target",
-        "title": "Sélection de Poses",
-        "description": "Choisissez parmi plus de 100 poses pour perfectionner votre contenu et donner vie à vos fantasmes."
+        "title": "Selezione delle Pose",
+        "description": "Scegli tra oltre 100 pose per perfezionare il tuo contenuto e dare vita alle tue fantasie."
       },
       {
         "icon": "sparkles",
-        "title": "Personnalisation de l'Apparence",
-        "description": "Adaptez chaque détail : type de corps, visage, tenue, décor et bien plus pour un contenu entièrement personnalisé."
+        "title": "Personalizzazione dell'Aspetto",
+        "description": "Personalizza ogni dettaglio: tipo di corpo, viso, outfit, ambientazione e molto altro per un contenuto completamente su misura."
       },
       {
         "icon": "lock",
-        "title": "Privé & Sécurisé",
-        "description": "100% confidentiel. Votre contenu est privé par défaut et protégé par un chiffrement avancé."
+        "title": "Privato e Sicuro",
+        "description": "100% riservato. I tuoi contenuti sono privati per impostazione predefinita e protetti con crittografia avanzata."
       },
       {
         "icon": "zap",
-        "title": "Génération Rapide",
-        "description": "Des résultats de haute qualité en moins de 10 secondes. Pas d'attente, que de la création."
+        "title": "Generazione Rapida",
+        "description": "Risultati di alta qualità in meno di 10 secondi. Nessuna attesa, solo creazione."
       }
     ]
   },
   "how_it_works": {
-    "title": "Comment fonctionne JustPorn.ai ?",
-    "subtitle": "Commencez en quelques minutes grâce à notre processus simple en 4 étapes",
+    "title": "Come Funziona JustPorn.ai?",
+    "subtitle": "Inizia in pochi minuti con il nostro semplice processo in 4 fasi",
     "steps": [
       {
         "step": 1,
-        "title": "Inscription",
-        "description": "Créez un compte gratuit en 30 secondes. Aucune carte bancaire requise."
+        "title": "Registrati",
+        "description": "Crea un account gratuito in 30 secondi. Nessuna carta di credito richiesta."
       },
       {
         "step": 2,
-        "title": "Choisir le Mode",
-        "description": "Choisissez entre les styles réaliste, anime ou fantasy pour votre contenu."
+        "title": "Seleziona la Modalità",
+        "description": "Scegli tra lo stile realistico, anime o fantasy per il tuo contenuto."
       },
       {
         "step": 3,
-        "title": "Choisir une Pose",
-        "description": "Sélectionnez la pose parfaite dans notre vaste bibliothèque pour correspondre à votre vision."
+        "title": "Scegli una Posa",
+        "description": "Seleziona la posa perfetta dalla nostra ampia libreria per realizzare la tua visione."
       },
       {
         "step": 4,
-        "title": "Générer",
-        "description": "Obtenez votre contenu IA personnalisé instantanément. Téléchargez, enregistrez ou créez-en plus."
+        "title": "Genera",
+        "description": "Ottieni il tuo contenuto IA personalizzato all'istante. Scarica, salva o creane altri."
       }
     ],
     "detailed": {
-      "title": "Comment fonctionne JustPorn.ai ?",
-      "subtitle": "Votre guide complet pour créer du contenu adulte par IA",
+      "title": "Come Funziona JustPorn.ai?",
+      "subtitle": "La tua guida completa per creare contenuti per adulti con l'IA",
       "steps": [
         {
           "step": 1,
-          "title": "Créez votre compte gratuit",
-          "description": "Inscrivez-vous en quelques secondes avec seulement votre email. Aucune carte bancaire requise pour commencer. Vous recevez 100 jetons gratuits chaque mois pour explorer la plateforme et tester nos capacités de génération IA."
+          "title": "Crea il tuo Account Gratuito",
+          "description": "Registrati in pochi secondi con la tua email. Nessuna carta di credito necessaria per iniziare. Ricevi 100 token gratuiti ogni mese per esplorare la piattaforma e testare le nostre capacità di generazione IA."
         },
         {
           "step": 2,
-          "title": "Choisissez votre type de contenu",
-          "description": "Sélectionnez entre les modes réaliste, anime ou fantasy. Chaque mode utilise des modèles IA spécialisés entraînés pour des styles visuels spécifiques. Choisissez parmi plus de 100 poses ou décrivez votre propre scénario personnalisé."
+          "title": "Scegli il tipo di Contenuto",
+          "description": "Seleziona tra le modalità realistico, anime o fantasy. Ogni modalità utilizza modelli IA specializzati addestrati per stili visivi specifici. Scegli tra oltre 100 pose o descrivi il tuo scenario personalizzato."
         },
         {
           "step": 3,
-          "title": "Personnalisez chaque détail",
-          "description": "Utilisez nos outils de personnalisation avancés pour adapter le type de corps, les traits du visage, les tenues, les décors et l'éclairage. L'IA comprend les prompts détaillés pour des visuels NSFW entièrement personnalisés."
+          "title": "Personalizza Ogni Dettaglio",
+          "description": "Utilizza i nostri strumenti di personalizzazione avanzati per adattare il tipo di corpo, i tratti del viso, gli outfit, le ambientazioni e l'illuminazione. L'IA comprende prompt dettagliati per contenuti NSFW completamente personalizzati."
         },
         {
           "step": 4,
-          "title": "Générez et Profitez",
-          "description": "Cliquez sur générer et recevez des résultats de haute qualité en moins de 10 secondes. Téléchargez, enregistrez dans votre galerie privée ou continuez à affiner. Les utilisateurs Premium débloquent les vidéos, messages vocaux et des vitesses plus rapides."
+          "title": "Genera e Goditi",
+          "description": "Clicca su genera e ricevi risultati di alta qualità in meno di 10 secondi. Scarica, salva nella tua galleria privata o continua a perfezionare. Gli utenti Premium sbloccano video, messaggi vocali e velocità maggiori."
         }
       ]
     }
   },
   "comparison": {
-    "title": "JustPorn.ai vs Les Autres Générateurs de Contenu Adulte IA",
-    "subtitle": "Découvrez pourquoi les utilisateurs choisissent JustPorn.ai plutôt que la concurrence",
-    "intro": "Le marché du contenu adulte par IA a explosé avec de nombreuses options, mais tous les générateurs ne proposent pas la même qualité, vitesse et confidentialité. Nous avons comparé JustPorn.ai avec les alternatives les plus populaires pour vous montrer ce qui nous distingue.",
+    "title": "JustPorn.ai vs Altri Generatori di Contenuti per Adulti IA",
+    "subtitle": "Scopri perché gli utenti scelgono JustPorn.ai rispetto alla concorrenza",
+    "intro": "Il mercato dei contenuti per adulti generati dall'IA è esploso con molte opzioni, ma non tutti i generatori offrono la stessa qualità, velocità e privacy. Abbiamo confrontato JustPorn.ai con le alternative più popolari per mostrarti esattamente cosa ci distingue.",
     "table": {
-      "headers": ["Fonctionnalité", "JustPorn.ai", "DarLink AI", "LusyChat", "eHentai", "MyLovely"],
+      "headers": ["Funzionalità", "JustPorn.ai", "DarLink AI", "LusyChat", "eHentai", "MyLovely"],
       "rows": [
-        ["Jetons Gratuits Mensuels", "100 jetons", "Limité", "Système de pièces", "Aucun", "Version gratuite"],
-        ["Messages Gratuits Illimités", "Oui", "Non", "Non", "N/A", "Oui"],
-        ["Génération d'Images", "Qualité HD", "Standard", "Standard", "HD hentai", "Standard"],
-        ["Génération de Vidéos", "Incluse", "Disponible", "Non disponible", "Non disponible", "Non disponible"],
-        ["Messages Vocaux", "Débloqués", "Disponible", "Non disponible", "N/A", "Non disponible"],
-        ["Temps de Réponse", "5x plus rapide", "Standard", "Standard", "Standard", "Standard"],
-        ["Confidentialité & Chiffrement", "Avancé", "Basique", "Basique", "Basique", "Basique"],
-        ["Poses Personnalisées", "100+", "Limité", "20+", "N/A", "Limité"],
-        ["Modes Anime/Fantasy", "Oui", "Oui", "Oui", "Hentai uniquement", "Limité"],
-        ["Bascule NSFW/SFW", "Oui", "Oui", "Oui", "NSFW uniquement", "Oui"],
-        ["Prix (Mensuel)", "7,99 $", "12,99 $", "9,99 $", "Variable", "9,99 $"],
-        ["Taux de Commission", "50%", "20%", "20%", "40%", "50%"]
+        ["Token Gratuiti Mensili", "100 token", "Limitato", "Sistema di monete", "Nessuno", "Versione gratuita"],
+        ["Messaggi Gratuiti Illimitati", "Sì", "No", "No", "N/A", "Sì"],
+        ["Generazione di Immagini", "Qualità HD", "Standard", "Standard", "HD hentai", "Standard"],
+        ["Generazione di Video", "Inclusa", "Disponibile", "Non disponibile", "Non disponibile", "Non disponibile"],
+        ["Messaggi Vocali", "Sbloccati", "Disponibile", "Non disponibile", "N/A", "Non disponibile"],
+        ["Tempo di Risposta", "5x più veloce", "Standard", "Standard", "Standard", "Standard"],
+        ["Privacy e Crittografia", "Avanzata", "Base", "Base", "Base", "Base"],
+        ["Pose Personalizzate", "100+", "Limitato", "20+", "N/A", "Limitato"],
+        ["Modalità Anime/Fantasy", "Sì", "Sì", "Sì", "Solo hentai", "Limitato"],
+        ["Modalità NSFW/SFW", "Sì", "Sì", "Sì", "Solo NSFW", "Sì"],
+        ["Prezzo (Mensile)", "$7,99", "$12,99", "$9,99", "Variabile", "$9,99"],
+        ["Tasso di Commissione", "50%", "20%", "20%", "40%", "50%"]
       ]
     },
     "sections": [
       {
-        "title": "Plus de valeur gratuite",
-        "content": "Alors que la plupart des concurrents offrent des générations gratuites limitées ou inexistantes, JustPorn.ai vous donne 100 jetons gratuits chaque mois ainsi que des messages gratuits illimités."
+        "title": "Più Valore Gratuito",
+        "content": "Mentre la maggior parte dei concorrenti offre generazioni gratuite limitate o inesistenti, JustPorn.ai ti dà 100 token gratuiti ogni mese e messaggi gratuiti illimitati. DarLink AI e LusyChat limitano fortemente gli utenti gratuiti, mentre eHentai non offre alcun piano gratuito. Testa la piattaforma a fondo prima di impegnarti nel premium."
       },
       {
-        "title": "Vitesse de génération supérieure",
-        "content": "Notre infrastructure optimisée produit des résultats jusqu'à 5 fois plus rapidement que les plateformes concurrentes. Ce qui prend 30 à 60 secondes ailleurs se fait en moins de 10 secondes sur JustPorn.ai."
+        "title": "Velocità di Generazione Superiore",
+        "content": "La nostra infrastruttura ottimizzata fornisce risultati fino a 5 volte più velocemente rispetto alle piattaforme concorrenti. Ciò che richiede 30-60 secondi su DarLink AI, LusyChat o MyLovely avviene in meno di 10 secondi su JustPorn.ai. Niente più attese per i tuoi contenuti."
       },
       {
-        "title": "Ensemble de fonctionnalités complet",
-        "content": "Contrairement aux concurrents qui verrouillent les vidéos et les voix derrière des abonnements chers, JustPorn.ai inclut la génération vidéo, les messages vocaux et le déblocage de photos dans tous les plans premium."
+        "title": "Set di Funzionalità Completo",
+        "content": "A differenza dei concorrenti che bloccano i video e le funzionalità vocali dietro abbonamenti costosi, JustPorn.ai include la generazione video, i messaggi vocali e lo sblocco delle foto in tutti i piani premium. DarLink AI addebita extra per il video, mentre LusyChat, eHentai e MyLovely non offrono affatto la generazione video."
       },
       {
-        "title": "Meilleure protection de la vie privée",
-        "content": "Nous utilisons un chiffrement avancé et ne partageons jamais vos données. Vos générations sont privées par défaut et sans filigrane sur le contenu premium."
+        "title": "Migliore Protezione della Privacy",
+        "content": "Utilizziamo una crittografia avanzata e non condividiamo mai i tuoi dati. Le tue generazioni sono private per impostazione predefinita, senza filigrane sui contenuti premium. Mentre tutte le piattaforme dichiarano di proteggere la privacy, JustPorn.ai va oltre con standard di crittografia di livello svizzero."
       },
       {
-        "title": "DarLink AI - Version gratuite très limitée",
-        "content": "DarLink AI se présente comme un générateur de petite amie IA gratuit avec chat, photos et vidéos. Cependant, sa version gratuite est extrêmement limitée. Basé en Suisse, il se concentre davantage sur la simulation de petite amie que sur la pure génération de contenu."
+        "title": "DarLink AI - Piano Gratuito Molto Limitato",
+        "content": "DarLink AI si propone come generatore gratuito di fidanzata IA con chat, foto e video. Tuttavia, il suo piano gratuito è estremamente limitato. Basato in Svizzera, si concentra più sulla simulazione di fidanzata che sulla pura generazione di contenuti. I prezzi partono da $12,99/mese con solo il 20% di commissione affiliati."
       },
       {
-        "title": "LusyChat - Le piège du système de pièces",
-        "content": "LusyChat fonctionne avec un système de pièces frustrant où les utilisateurs gratuits épuisent rapidement leur crédit et doivent constamment en racheter. La plateforme est plus orientée roleplay textuel que génération visuelle de contenu."
+        "title": "LusyChat - La Trappola del Sistema di Monete",
+        "content": "LusyChat funziona con un frustrante sistema di monete dove gli utenti gratuiti esauriscono rapidamente il credito e devono costantemente acquistarne altro. La piattaforma è più orientata al roleplay testuale che alla generazione visiva di contenuti. A $9,99/mese con solo il 20% di commissione affiliati, LusyChat offre un valore scarso rispetto al sistema di token diretto di JustPorn.ai."
       },
       {
-        "title": "eHentai - Limitations de niche",
-        "content": "eHentai.ai se spécialise exclusivement dans la génération d'art hentai IA, ce qui limite fortement son public. Contrairement à JustPorn.ai qui propose des modes réaliste, anime et fantasy, eHentai est bloqué sur un seul style."
+        "title": "eHentai - Limitazioni di Nicchia",
+        "content": "eHentai.ai si specializza esclusivamente nella generazione di arte hentai IA, limitando immediatamente il suo appeal a un pubblico ristretto. A differenza di JustPorn.ai che offre modalità realistiche, anime e fantasy, eHentai è bloccato su un unico stile. Non esiste alcun piano gratuito: devi pagare prima di generare qualsiasi cosa."
       },
       {
-        "title": "MyLovely - Fonctionnalités basiques",
-        "content": "MyLovely AI se positionne comme un simulateur de petite amie IA, mais ses fonctionnalités sont très basiques comparées à JustPorn.ai. Il manque notamment la génération vidéo, les messages vocaux et une personnalisation avancée."
+        "title": "MyLovely - Funzionalità di Base",
+        "content": "MyLovely AI si posiziona come simulatore di fidanzata IA, ma le sue funzionalità sono molto basiche rispetto a JustPorn.ai. Manca completamente della generazione video, non offre messaggi vocali e la qualità delle immagini è nella media. A $9,99/mese con il 50% di commissione, il prezzo sembra competitivo finché non consideri le funzionalità mancanti."
       },
       {
-        "title": "Pourquoi JustPorn.ai l'emporte",
-        "content": "JustPorn.ai domine l'espace du contenu adulte par IA en combinant les meilleures fonctionnalités de tous ses concurrents tout en éliminant leurs faiblesses. Avec 100 jetons gratuits mensuels, une génération ultra-rapide, de la vidéo incluse, une excellente confidentialité et un prix attractif de 7,99 $/mois, c'est clairement le meilleur choix."
+        "title": "Perché JustPorn.ai Vince",
+        "content": "JustPorn.ai domina lo spazio dei contenuti per adulti IA combinando le migliori funzionalità di tutti i concorrenti eliminando i loro punti deboli. Offriamo 100 token gratuiti mensili con messaggi illimitati, generazione video inclusa, oltre 100 pose personalizzate, risposta 5 volte più veloce, qualità HD in modalità realistico, anime e fantasy, crittografia avanzata e prezzi trasparenti a $7,99/mese. La commissione affiliati del 50% è tra le più alte del settore."
       }
     ],
-    "cta": "Faites la différence - Essayez JustPorn.ai gratuitement"
+    "cta": "Scopri la Differenza - Prova JustPorn.ai Gratis"
   },
   "pricing": {
-    "title": "Choisissez votre abonnement",
-    "subtitle": "Offre à durée limitée - Jusqu'à 75% de réduction sur votre premier abonnement !",
-    "most_popular": "Le Plus Populaire",
-    "promo_label": "Offre Limitée",
-    "promo_text": "Jusqu'à 75% de réduction sur votre premier abonnement !",
-    "pay_by": "Paiement par :",
-    "promocode": "Code promo",
+    "title": "Scegli il tuo Piano",
+    "subtitle": "Offerta a Tempo Limitato - Fino al 75% di sconto sul tuo primo abbonamento!",
+    "most_popular": "Il Più Popolare",
+    "promo_label": "Offerta Limitata",
+    "promo_text": "Fino al 75% di sconto sul tuo primo abbonamento!",
+    "pay_by": "Paga con:",
+    "promocode": "Codice promozionale",
     "plans": [
       {
         "id": "free",
-        "name": "Gratuit",
+        "name": "Gratuito",
         "badge": null,
         "badge_color": null,
-        "price": "0 $",
-        "period": "pour toujours",
+        "price": "$0",
+        "period": "per sempre",
         "features": [
-          "Messages gratuits illimités",
-          "100 jetons gratuits par mois",
-          "Générer des images et débloquer des photos",
-          "Débloquer les messages vocaux",
-          "Débloquer les vidéos",
-          "Temps de réponse 5x plus rapide",
-          "Débloquer toutes les fonctionnalités premium"
+          "Messaggi gratuiti illimitati",
+          "100 token gratuiti al mese",
+          "Genera immagini e sblocca foto",
+          "Sblocca messaggi vocali",
+          "Sblocca video",
+          "Tempo di risposta 5x più veloce",
+          "Sblocca tutte le funzionalità premium"
         ],
-        "cta_text": "Inscription Gratuite",
+        "cta_text": "Registrati Gratis",
         "popular": false
       },
       {
         "id": "trial",
-        "name": "Essai 7 jours",
-        "badge": "Essai 7 jours",
+        "name": "Prova 7 Giorni",
+        "badge": "Prova 7 Giorni",
         "badge_color": "blue",
-        "price_initial": "2,99 $",
-        "price_rebill": "14,99 $",
-        "period": "pendant 7 jours",
+        "price_initial": "$2,99",
+        "price_rebill": "$14,99",
+        "period": "per 7 giorni",
         "features": [
-          "Toutes les fonctionnalités Premium + 50 jetons",
-          "Accès complet pendant 7 jours",
-          "Annulation à tout moment"
+          "Tutte le funzionalità Premium + 50 token",
+          "Accesso completo per 7 giorni",
+          "Cancella in qualsiasi momento"
         ],
-        "cta_text": "Commencer l'essai",
+        "cta_text": "Inizia la Prova",
         "popular": false
       },
       {
         "id": "monthly",
-        "name": "Mensuel",
-        "badge": "50% DE RÉDUCTION",
+        "name": "Mensile",
+        "badge": "50% DI SCONTO",
         "badge_color": "green",
-        "price_initial": "7,99 $",
-        "price_rebill": "14,99 $",
-        "price_old": "14,99 $",
-        "save_amount": "7,00 $",
-        "period": "/mois",
+        "price_initial": "$7,99",
+        "price_rebill": "$14,99",
+        "price_old": "$14,99",
+        "save_amount": "$7,00",
+        "period": "/mese",
         "features": [
-          "Toutes les fonctionnalités Premium",
-          "200 jetons par mois",
-          "Génération prioritaire",
-          "Sans filigrane"
+          "Tutte le funzionalità Premium",
+          "200 token al mese",
+          "Generazione prioritaria",
+          "Senza filigrana"
         ],
-        "cta_text": "S'abonner",
+        "cta_text": "Abbonati",
         "popular": true
       },
       {
         "id": "quarterly",
-        "name": "Tous les 3 mois",
-        "badge": "70% DE RÉDUCTION",
+        "name": "Ogni 3 Mesi",
+        "badge": "70% DI SCONTO",
         "badge_color": "orange",
-        "price_initial": "15,99 $",
-        "price_rebill": "29,99 $",
-        "price_old": "29,99 $",
-        "save_amount": "14,00 $",
-        "period": "5,33 $/mois",
+        "price_initial": "$15,99",
+        "price_rebill": "$29,99",
+        "price_old": "$29,99",
+        "save_amount": "$14,00",
+        "period": "$5,33/mese",
         "features": [
-          "Toutes les fonctionnalités Premium",
-          "200 jetons par mois",
-          "Support prioritaire",
-          "Économisez 14,00 $"
+          "Tutte le funzionalità Premium",
+          "200 token al mese",
+          "Supporto prioritario",
+          "Risparmia $14,00"
         ],
-        "cta_text": "S'abonner",
+        "cta_text": "Abbonati",
         "popular": false
       },
       {
         "id": "annual",
-        "name": "Annuel",
-        "badge": "80% DE RÉDUCTION",
+        "name": "Annuale",
+        "badge": "80% DI SCONTO",
         "badge_color": "gold",
-        "price_initial": "49,99 $",
-        "price_rebill": "89,99 $",
-        "price_old": "89,99 $",
-        "save_amount": "40,00 $",
-        "period": "4,17 $/mois",
+        "price_initial": "$49,99",
+        "price_rebill": "$89,99",
+        "price_old": "$89,99",
+        "save_amount": "$40,00",
+        "period": "$4,17/mese",
         "features": [
-          "Toutes les fonctionnalités Premium",
-          "200 jetons par mois",
-          "Accès anticipé VIP",
-          "Économisez 40,00 $"
+          "Tutte le funzionalità Premium",
+          "200 token al mese",
+          "Accesso anticipato VIP",
+          "Risparmia $40,00"
         ],
-        "cta_text": "Meilleure Offre",
+        "cta_text": "Miglior Offerta",
         "popular": false
       },
       {
         "id": "vip",
-        "name": "Accès VIP",
-        "badge": "Disponibilité Limitée",
+        "name": "Accesso VIP",
+        "badge": "Disponibilità Limitata",
         "badge_color": "red",
-        "price": "29,99 $",
-        "period": "/mois",
+        "price": "$29,99",
+        "period": "/mese",
         "features": [
-          "500 jetons par mois",
-          "Modèles IA exclusifs",
-          "Accès aux fonctionnalités bêta",
-          "Support direct",
-          "Demandes de modèles personnalisés"
+          "500 token al mese",
+          "Modelli IA esclusivi",
+          "Accesso alle funzionalità beta",
+          "Canale di supporto diretto",
+          "Richieste di modelli personalizzati"
         ],
-        "cta_text": "Rejoindre le VIP",
+        "cta_text": "Unisciti al VIP",
         "popular": false
       }
     ]
   },
   "faq": {
-    "title": "Questions Fréquemment Posées",
-    "subtitle": "Tout ce que vous devez savoir sur JustPorn.ai",
+    "title": "Domande Frequenti",
+    "subtitle": "Tutto ciò che devi sapere su JustPorn.ai",
     "items": [
       {
-        "question": "JustPorn.ai est-il gratuit à utiliser ?",
-        "answer": "Oui ! Vous bénéficiez de messages gratuits illimités et de 100 jetons gratuits chaque mois. Les abonnements Premium débloquent des fonctionnalités supplémentaires comme la génération plus rapide, la création de vidéos et plus de jetons."
+        "question": "JustPorn.ai è gratuito?",
+        "answer": "Sì! Hai messaggi gratuiti illimitati e 100 token gratuiti ogni mese. I piani Premium sbloccano funzionalità aggiuntive come la generazione più veloce, la creazione di video e più token."
       },
       {
-        "question": "Quel type de contenu puis-je générer ?",
-        "answer": "JustPorn.ai crée des images et vidéos adultes générées par IA dans les styles réaliste, anime et fantasy. Tout le contenu est fictif et généré par intelligence artificielle. Nous n'autorisons pas le contenu représentant de vraies personnes sans leur consentement."
+        "question": "Che tipo di contenuti posso generare?",
+        "answer": "JustPorn.ai crea immagini e video per adulti generati dall'IA in stile realistico, anime e fantasy. Tutti i contenuti sono fittizi e generati dall'intelligenza artificiale. Non consentiamo contenuti che ritraggono persone reali senza il loro consenso."
       },
       {
-        "question": "Ma vie privée est-elle protégée ?",
-        "answer": "Absolument. Nous utilisons un chiffrement avancé et ne partageons jamais vos données. Vos générations sont privées par défaut."
+        "question": "La mia privacy è protetta?",
+        "answer": "Assolutamente. Utilizziamo una crittografia avanzata e non condividiamo mai i tuoi dati. Le tue generazioni sono private per impostazione predefinita e non conserviamo informazioni personali oltre a quelle necessarie per il tuo account."
       },
       {
-        "question": "Comment fonctionnent les jetons ?",
-        "answer": "Chaque génération consomme des jetons. Les utilisateurs gratuits reçoivent 100 jetons par mois. Les plans payants incluent un nombre de jetons mensuels (200 à 500 selon l'abonnement). Des jetons supplémentaires peuvent être achetés à tout moment."
+        "question": "Come funzionano i token?",
+        "answer": "Ogni generazione consuma token. Gli utenti gratuiti ricevono 100 token al mese. I piani a pagamento includono un'indennità mensile di token (200-500 a seconda del piano). Token aggiuntivi possono essere acquistati in qualsiasi momento dal tuo account."
       },
       {
-        "question": "Puis-je annuler mon abonnement ?",
-        "answer": "Oui, vous pouvez annuler à tout moment depuis vos paramètres de compte. Aucun frais caché. Les abonnements annuels peuvent être annulés avec un remboursement prorata dans les 30 jours."
+        "question": "Posso cancellare il mio abbonamento?",
+        "answer": "Sì, puoi cancellare in qualsiasi momento dalle impostazioni del tuo account. Nessuna domanda. Se cancelli durante una prova, non ti verrà addebitato nulla. I piani annuali possono essere cancellati con rimborso proporzionale entro 30 giorni."
       },
       {
-        "question": "Quels moyens de paiement acceptez-vous ?",
-        "answer": "Nous acceptons toutes les principales cartes de crédit (Visa, Mastercard, Amex), PayPal et les cryptomonnaies (Bitcoin, Ethereum) pour une confidentialité et discrétion maximales."
+        "question": "Quali metodi di pagamento sono accettati?",
+        "answer": "Accettiamo tutte le principali carte di credito (Visa, Mastercard, Amex), PayPal e criptovalute (Bitcoin, Ethereum) per la massima privacy e discrezione."
       },
       {
-        "question": "Les images générées sont-elles réalistes ?",
-        "answer": "Notre IA produit des images réalistes de haute qualité, ainsi que des styles anime et fantasy. Le mode Réaliste utilise des modèles de diffusion à la pointe de la technologie pour des résultats très lifelike."
+        "question": "Le immagini generate sono realistiche?",
+        "answer": "La nostra IA produce immagini realistiche di alta qualità, oltre a stili anime e fantasy. I risultati migliorano costantemente con gli aggiornamenti dei modelli. La modalità Realistico utilizza modelli di diffusione all'avanguardia per risultati molto realistici."
       },
       {
-        "question": "Y a-t-il une application mobile ?",
-        "answer": "JustPorn.ai fonctionne parfaitement sur les navigateurs mobiles avec un design responsive optimisé pour le tactile. Une application native est en cours de développement pour iOS et Android."
+        "question": "Esiste un'app mobile?",
+        "answer": "JustPorn.ai funziona perfettamente sui browser mobili con un design responsive ottimizzato per il touch. Un'app nativa è in arrivo per iOS e Android con notifiche push e navigazione offline."
       }
     ]
   },
   "cta_banner": {
-    "headline": "Prêt à créer votre fantasme ?",
-    "subheadline": "Rejoignez plus de 50 000 utilisateurs qui génèrent du contenu adulte IA personnalisé",
-    "cta_text": "Commencer l'Essai Gratuit",
+    "headline": "Pronto a Creare la tua Fantasia?",
+    "subheadline": "Unisciti a oltre 50.000 utenti che generano contenuti per adulti IA personalizzati",
+    "cta_text": "Inizia la Prova Gratuita",
     "trust_badges": [
-      "Sécurisé",
-      "Instantané",
-      "Annulation à tout moment"
+      "Sicuro",
+      "Istantaneo",
+      "Cancella in Qualsiasi Momento"
     ]
   },
   "footer": {
-    "tagline": "L'avenir du contenu adulte généré par IA",
-    "links_title": "Liens",
-    "social_title": "Réseaux sociaux",
+    "tagline": "Il futuro dei contenuti per adulti generati dall'IA",
+    "links_title": "Link",
+    "social_title": "Social",
     "links": [
-      {"label": "Accueil", "href": "#hero"},
-      {"label": "Fonctionnalités", "href": "#features"},
-      {"label": "Tarifs", "href": "#pricing"},
+      {"label": "Home", "href": "#hero"},
+      {"label": "Funzionalità", "href": "#features"},
+      {"label": "Prezzi", "href": "#pricing"},
       {"label": "FAQ", "href": "#faq"},
-      {"label": "Programme d'Affiliation", "href": "#"},
-      {"label": "Support", "href": "#"},
-      {"label": "Conditions d'utilisation", "href": "#"},
-      {"label": "Confidentialité", "href": "#"}
+      {"label": "Programma di Affiliazione", "href": "#"},
+      {"label": "Supporto", "href": "#"},
+      {"label": "Termini di Servizio", "href": "#"},
+      {"label": "Privacy", "href": "#"}
     ],
     "social": [
       {"platform": "twitter", "href": "#"},
       {"platform": "discord", "href": "#"},
       {"platform": "reddit", "href": "#"}
     ],
-    "copyright": "2026 JustPorn.ai - Tous droits réservés.",
-    "disclaimer": "Ce site contient du contenu adulte généré par IA. Vous devez être âgé de 18 ans ou plus pour l'utiliser. Toutes les personnes représentées sont générées par IA et ne sont pas de vraies personnes."
+    "copyright": "2026 JustPorn.ai - Tutti i diritti riservati.",
+    "disclaimer": "Questo sito web contiene contenuti per adulti generati dall'IA. Devi avere 18 anni o più per utilizzare questo sito. Tutte le persone raffigurate sono generate dall'IA e non sono persone reali."
   }
 }
