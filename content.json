@@ -1,0 +1,278 @@
+{
+  "site": {
+    "name": "JustPorn.ai",
+    "tagline": "AI Porn Generator - Create Custom Adult Content"
+  },
+  "meta": {
+    "title": "AI Porn Generator - Create Custom Adult Content - JustPorn.ai",
+    "description": "Discover JustPorn's AI porn generator to create personalized, high-quality adult content effortlessly. Explore our advanced AI technology for a unique experience!",
+    "og_title": "AI Porn Generator - Create Custom Adult Content - JustPorn.ai",
+    "og_description": "Discover JustPorn's AI porn generator to create personalized, high-quality adult content effortlessly."
+  },
+  "nav": {
+    "features": "Features",
+    "how_it_works": "How It Works",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "cta_try_free": "Try Free",
+    "cta_premium": "Get Premium"
+  },
+  "hero": {
+    "badge": "#1 AI Porn Generator 2026",
+    "h1_line1": "AI Porn Generator",
+    "h1_line2": "Create Custom Adult Content",
+    "subtitle": "Discover JustPorn's AI porn generator to create personalized, high-quality adult content effortlessly. Explore our advanced AI technology for a unique experience!",
+    "social_proof": "50,000+ users | 1M+ images generated",
+    "cta_primary": "Generate Now",
+    "cta_secondary": "View Pricing",
+    "video_placeholder": "Watch Demo Video",
+    "live_indicator": "Live Generation",
+    "generations_counter": "1M+ Generated"
+  },
+  "features": {
+    "title": "Powerful Features",
+    "subtitle": "Everything you need to create stunning AI-generated adult content with ease",
+    "items": [
+      {
+        "icon": "palette",
+        "title": "AI Image Generator",
+        "description": "Create realistic, anime, or fantasy NSFW images in seconds with our advanced AI models."
+      },
+      {
+        "icon": "video",
+        "title": "AI Video Generator",
+        "description": "Generate short adult videos with AI-powered motion and smooth transitions."
+      },
+      {
+        "icon": "target",
+        "title": "Pose Selection",
+        "description": "Choose from 100+ poses to perfect your content and bring your fantasies to life."
+      },
+      {
+        "icon": "sparkles",
+        "title": "Appearance Customization",
+        "description": "Tailor every detail: body type, face, outfit, setting, and more for fully personalized content."
+      },
+      {
+        "icon": "lock",
+        "title": "Private & Secure",
+        "description": "100% confidential. Your content is private by default and protected with advanced encryption."
+      },
+      {
+        "icon": "zap",
+        "title": "Fast Generation",
+        "description": "High-quality results in under 10 seconds. No waiting, just creating."
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "How It Works",
+    "subtitle": "Get started in minutes with our simple 4-step process",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Sign Up",
+        "description": "Create a free account in 30 seconds. No credit card required."
+      },
+      {
+        "step": 2,
+        "title": "Select Mode",
+        "description": "Choose between realistic, anime, or fantasy style for your content."
+      },
+      {
+        "step": 3,
+        "title": "Choose Pose",
+        "description": "Pick the perfect pose from our extensive library to match your vision."
+      },
+      {
+        "step": 4,
+        "title": "Generate",
+        "description": "Get your custom AI content instantly. Download, save, or create more."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "subtitle": "Start free, upgrade when you are ready. Flexible plans for every creator.",
+    "most_popular": "Most Popular",
+    "plans": [
+      {
+        "id": "free",
+        "name": "Free",
+        "badge": null,
+        "badge_color": null,
+        "price": "$0",
+        "period": "forever",
+        "features": [
+          "10 free generations",
+          "Basic quality",
+          "Standard speed",
+          "Watermarked images"
+        ],
+        "cta_text": "Sign Up Free",
+        "popular": false
+      },
+      {
+        "id": "trial",
+        "name": "7-Day Trial",
+        "badge": "7 Day Trial",
+        "badge_color": "blue",
+        "price_initial": "$2.99",
+        "price_rebill": "$14.99",
+        "period": "then monthly",
+        "features": [
+          "200 tokens included",
+          "50 bonus trial tokens",
+          "HD quality output",
+          "Fast generation queue",
+          "No watermark"
+        ],
+        "cta_text": "Start Trial",
+        "popular": true
+      },
+      {
+        "id": "monthly",
+        "name": "Monthly",
+        "badge": "50% OFF",
+        "badge_color": "green",
+        "price_initial": "$7.99",
+        "price_rebill": "$14.99",
+        "price_old": "$25.99",
+        "period": "per month",
+        "features": [
+          "200 tokens per month",
+          "All styles unlocked",
+          "Priority generation",
+          "5 video generations per month"
+        ],
+        "cta_text": "Subscribe",
+        "popular": false
+      },
+      {
+        "id": "quarterly",
+        "name": "Quarterly",
+        "badge": "70% OFF",
+        "badge_color": "orange",
+        "price_initial": "$15.99",
+        "price_rebill": "$29.99",
+        "price_old": "$77.97",
+        "save_amount": "$48.00",
+        "period": "per 3 months",
+        "features": [
+          "200 tokens per month",
+          "All features included",
+          "20 video generations per quarter",
+          "Priority email support"
+        ],
+        "cta_text": "Subscribe",
+        "popular": false
+      },
+      {
+        "id": "annual",
+        "name": "Annually",
+        "badge": "80% OFF",
+        "badge_color": "gold",
+        "price_initial": "$49.99",
+        "price_rebill": "$89.99",
+        "price_old": "$311.88",
+        "save_amount": "$241.89",
+        "period": "per year",
+        "features": [
+          "200 tokens per month",
+          "Unlimited video generation",
+          "VIP early access to new features",
+          "24/7 priority support"
+        ],
+        "cta_text": "Get Best Deal",
+        "popular": false
+      },
+      {
+        "id": "vip",
+        "name": "VIP Access",
+        "badge": "Limited Availability",
+        "badge_color": "red",
+        "price": "$29.99",
+        "period": "per month",
+        "features": [
+          "500 tokens per month",
+          "Exclusive AI models",
+          "Beta features access",
+          "Direct support channel",
+          "Custom model requests"
+        ],
+        "cta_text": "Join VIP",
+        "popular": false
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about JustPorn.ai",
+    "items": [
+      {
+        "question": "Is JustPorn.ai free to use?",
+        "answer": "Yes, you can start for free with 10 generations. Premium plans unlock unlimited creation and advanced features like HD quality, video generation, and priority processing."
+      },
+      {
+        "question": "What content can I generate?",
+        "answer": "JustPorn.ai creates AI-generated adult images and videos in realistic, anime, and fantasy styles. All content is fictional and AI-generated. We do not allow content depicting real individuals without consent."
+      },
+      {
+        "question": "Is my privacy protected?",
+        "answer": "Absolutely. We use advanced encryption and never share your data. Your generations are private by default, and we do not store any personal information beyond what is needed for your account."
+      },
+      {
+        "question": "How do tokens work?",
+        "answer": "Each generation costs tokens. Free users get 10 tokens to start. Paid plans include monthly token allowances (200-500 depending on your plan). Additional tokens can be purchased anytime from your account."
+      },
+      {
+        "question": "Can I cancel my subscription?",
+        "answer": "Yes, you can cancel anytime from your account settings. No questions asked. If you cancel during a trial, you will not be charged. Annual plans can be cancelled for a prorated refund within 30 days."
+      },
+      {
+        "question": "What payment methods are accepted?",
+        "answer": "We accept all major credit cards (Visa, Mastercard, Amex), PayPal, and cryptocurrency (Bitcoin, Ethereum) for maximum privacy and discretion."
+      },
+      {
+        "question": "Are the generated images realistic?",
+        "answer": "Our AI produces high-quality realistic images, plus anime and fantasy styles. Results improve constantly with model updates. The Realistic mode uses state-of-the-art diffusion models for lifelike results."
+      },
+      {
+        "question": "Is there a mobile app?",
+        "answer": "JustPorn.ai works perfectly on mobile browsers with a responsive design optimized for touch. A native app is coming soon for iOS and Android with push notifications and offline browsing."
+      }
+    ]
+  },
+  "cta_banner": {
+    "headline": "Ready to Create Your Fantasy?",
+    "subheadline": "Join 50,000+ users generating custom AI adult content",
+    "cta_text": "Start Free Trial",
+    "trust_badges": [
+      "Secure",
+      "Instant",
+      "Cancel Anytime"
+    ]
+  },
+  "footer": {
+    "tagline": "The future of AI-generated adult content",
+    "links_title": "Links",
+    "social_title": "Social",
+    "links": [
+      {"label": "Home", "href": "#hero"},
+      {"label": "Features", "href": "#features"},
+      {"label": "Pricing", "href": "#pricing"},
+      {"label": "FAQ", "href": "#faq"},
+      {"label": "Affiliate Program", "href": "#"},
+      {"label": "Support", "href": "#"},
+      {"label": "Terms", "href": "#"},
+      {"label": "Privacy", "href": "#"}
+    ],
+    "social": [
+      {"platform": "twitter", "href": "#"},
+      {"platform": "discord", "href": "#"},
+      {"platform": "reddit", "href": "#"}
+    ],
+    "copyright": "2026 JustPorn.ai - All rights reserved.",
+    "disclaimer": "This website contains AI-generated adult content. You must be 18+ to use this site. All depicted individuals are AI-generated and not real people."
+  }
+}

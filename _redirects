@@ -1,0 +1,3 @@
+# Redirections d'affiliation - Cloudflare Pages
+/go/justporn    https://justporn.ai/?ref=AFFILIATE_ID    301
+/go/trial       https://justporn.ai/plans?ref=AFFILIATE_ID    301

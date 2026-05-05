@@ -1,0 +1,278 @@
+{
+  "site": {
+    "name": "JustPorn.ai",
+    "tagline": "Generador de Porno IA - Crea Contenido Adulto Personalizado"
+  },
+  "meta": {
+    "title": "Generador de Porno IA - Crea Contenido Adulto Personalizado - JustPorn.ai",
+    "description": "Descubre el generador de porno IA de JustPorn para crear contenido adulto personalizado y de alta calidad sin esfuerzo. ¡Explora nuestra tecnología IA avanzada para una experiencia única!",
+    "og_title": "Generador de Porno IA - Crea Contenido Adulto Personalizado - JustPorn.ai",
+    "og_description": "Descubre el generador de porno IA de JustPorn para crear contenido adulto personalizado y de alta calidad sin esfuerzo."
+  },
+  "nav": {
+    "features": "Características",
+    "how_it_works": "Cómo Funciona",
+    "pricing": "Precios",
+    "faq": "FAQ",
+    "cta_try_free": "Probar Gratis",
+    "cta_premium": "Obtener Premium"
+  },
+  "hero": {
+    "badge": "N°1 Generador de Porno IA 2026",
+    "h1_line1": "Generador de Porno IA",
+    "h1_line2": "Crea Contenido Adulto",
+    "subtitle": "Descubre el generador de porno IA de JustPorn para crear contenido adulto personalizado y de alta calidad sin esfuerzo. ¡Explora nuestra tecnología IA avanzada para una experiencia única!",
+    "social_proof": "50,000+ usuarios | 1M+ imágenes generadas",
+    "cta_primary": "Generar Ahora",
+    "cta_secondary": "Ver Precios",
+    "video_placeholder": "Ver Video Demo",
+    "live_indicator": "Generación en Vivo",
+    "generations_counter": "1M+ Generaciones"
+  },
+  "features": {
+    "title": "Características Poderosas",
+    "subtitle": "Todo lo que necesitas para crear contenido adulto IA impresionante con facilidad",
+    "items": [
+      {
+        "icon": "palette",
+        "title": "Generador de Imágenes IA",
+        "description": "Crea imágenes NSFW realistas, anime o fantasy en segundos con nuestros modelos IA avanzados."
+      },
+      {
+        "icon": "video",
+        "title": "Generador de Videos IA",
+        "description": "Genera videos adultos cortos con movimiento IA y transiciones suaves."
+      },
+      {
+        "icon": "target",
+        "title": "Selección de Poses",
+        "description": "Elige entre más de 100 poses para perfeccionar tu contenido y dar vida a tus fantasías."
+      },
+      {
+        "icon": "sparkles",
+        "title": "Personalización de Apariencia",
+        "description": "Personaliza cada detalle: tipo de cuerpo, rostro, atuendo, escenario y más para contenido totalmente a medida."
+      },
+      {
+        "icon": "lock",
+        "title": "Privado y Seguro",
+        "description": "100% confidencial. Tu contenido es privado por defecto y protegido con cifrado avanzado."
+      },
+      {
+        "icon": "zap",
+        "title": "Generación Rápida",
+        "description": "Resultados de alta calidad en menos de 10 segundos. Sin esperas, solo creación."
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "Cómo Funciona",
+    "subtitle": "Comienza en minutos con nuestro proceso simple de 4 pasos",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Regístrate",
+        "description": "Crea una cuenta gratuita en 30 segundos. No se requiere tarjeta de crédito."
+      },
+      {
+        "step": 2,
+        "title": "Selecciona el Modo",
+        "description": "Elige entre el estilo realista, anime o fantasy para tu contenido."
+      },
+      {
+        "step": 3,
+        "title": "Elige la Pose",
+        "description": "Selecciona la pose perfecta de nuestra amplia biblioteca para coincidir con tu visión."
+      },
+      {
+        "step": 4,
+        "title": "Genera",
+        "description": "Obtén tu contenido IA personalizado al instante. Descarga, guarda o crea más."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Elige Tu Plan",
+    "subtitle": "Comienza gratis, actualiza cuando estés listo. Planes flexibles para cada creador.",
+    "most_popular": "Más Popular",
+    "plans": [
+      {
+        "id": "free",
+        "name": "Gratis",
+        "badge": null,
+        "badge_color": null,
+        "price": "0 €",
+        "period": "para siempre",
+        "features": [
+          "10 generaciones gratis",
+          "Calidad básica",
+          "Velocidad estándar",
+          "Imágenes con marca de agua"
+        ],
+        "cta_text": "Registrarse Gratis",
+        "popular": false
+      },
+      {
+        "id": "trial",
+        "name": "Prueba 7 Días",
+        "badge": "Prueba 7 Días",
+        "badge_color": "blue",
+        "price_initial": "2,99 €",
+        "price_rebill": "14,99 €",
+        "period": "luego mensual",
+        "features": [
+          "200 tokens incluidos",
+          "50 tokens de prueba bonus",
+          "Salida calidad HD",
+          "Cola de generación rápida",
+          "Sin marca de agua"
+        ],
+        "cta_text": "Iniciar Prueba",
+        "popular": true
+      },
+      {
+        "id": "monthly",
+        "name": "Mensual",
+        "badge": "50% DE DESCUENTO",
+        "badge_color": "green",
+        "price_initial": "7,99 €",
+        "price_rebill": "14,99 €",
+        "price_old": "25,99 €",
+        "period": "por mes",
+        "features": [
+          "200 tokens por mes",
+          "Todos los estilos desbloqueados",
+          "Generación prioritaria",
+          "5 generaciones de video por mes"
+        ],
+        "cta_text": "Suscribirse",
+        "popular": false
+      },
+      {
+        "id": "quarterly",
+        "name": "Trimestral",
+        "badge": "70% DE DESCUENTO",
+        "badge_color": "orange",
+        "price_initial": "15,99 €",
+        "price_rebill": "29,99 €",
+        "price_old": "77,97 €",
+        "save_amount": "48,00 €",
+        "period": "por 3 meses",
+        "features": [
+          "200 tokens por mes",
+          "Todas las funciones incluidas",
+          "20 generaciones de video por trimestre",
+          "Soporte prioritario por email"
+        ],
+        "cta_text": "Suscribirse",
+        "popular": false
+      },
+      {
+        "id": "annual",
+        "name": "Anual",
+        "badge": "80% DE DESCUENTO",
+        "badge_color": "gold",
+        "price_initial": "49,99 €",
+        "price_rebill": "89,99 €",
+        "price_old": "311,88 €",
+        "save_amount": "241,89 €",
+        "period": "por año",
+        "features": [
+          "200 tokens por mes",
+          "Generación de video ilimitada",
+          "Acceso VIP anticipado a nuevas funciones",
+          "Soporte prioritario 24/7"
+        ],
+        "cta_text": "Mejor Oferta",
+        "popular": false
+      },
+      {
+        "id": "vip",
+        "name": "Acceso VIP",
+        "badge": "Disponibilidad Limitada",
+        "badge_color": "red",
+        "price": "29,99 €",
+        "period": "por mes",
+        "features": [
+          "500 tokens por mes",
+          "Modelos IA exclusivos",
+          "Acceso a funciones beta",
+          "Canal de soporte directo",
+          "Solicitudes de modelos personalizados"
+        ],
+        "cta_text": "Unirse VIP",
+        "popular": false
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Todo lo que necesitas saber sobre JustPorn.ai",
+    "items": [
+      {
+        "question": "¿Es gratis JustPorn.ai?",
+        "answer": "Sí, puedes comenzar gratis con 10 generaciones. Los planes premium desbloquean la creación ilimitada y funciones avanzadas como calidad HD, generación de video y procesamiento prioritario."
+      },
+      {
+        "question": "¿Qué contenido puedo generar?",
+        "answer": "JustPorn.ai crea imágenes y videos adultos generados por IA en estilos realista, anime y fantasy. Todo el contenido es ficticio y generado por IA. No permitimos contenido que represente a personas reales sin consentimiento."
+      },
+      {
+        "question": "¿Está protegida mi privacidad?",
+        "answer": "Absolutamente. Usamos cifrado avanzado y nunca compartimos tus datos. Tus generaciones son privadas por defecto, y no almacenamos información personal más allá de lo necesario para tu cuenta."
+      },
+      {
+        "question": "¿Cómo funcionan los tokens?",
+        "answer": "Cada generación cuesta tokens. Los usuarios gratis reciben 10 tokens para empezar. Los planes pagados incluyen asignaciones mensuales de tokens (200-500 según tu plan). Tokens adicionales pueden comprarse en cualquier momento desde tu cuenta."
+      },
+      {
+        "question": "¿Puedo cancelar mi suscripción?",
+        "answer": "Sí, puedes cancelar en cualquier momento desde los ajustes de tu cuenta. Sin preguntas. Si cancelas durante la prueba, no se te cobrará. Los planes anuales pueden cancelarse con reembolso prorrateado dentro de los 30 días."
+      },
+      {
+        "question": "¿Qué métodos de pago se aceptan?",
+        "answer": "Aceptamos todas las tarjetas de crédito principales (Visa, Mastercard, Amex), PayPal y criptomonedas (Bitcoin, Ethereum) para máxima privacidad y discreción."
+      },
+      {
+        "question": "¿Las imágenes generadas son realistas?",
+        "answer": "Nuestra IA produce imágenes de alta calidad realistas, así como estilos anime y fantasy. Los resultados mejoran constantemente con las actualizaciones de los modelos. El modo 'Realista' usa modelos de difusión de última generación para resultados realistas."
+      },
+      {
+        "question": "¿Hay una aplicación móvil?",
+        "answer": "JustPorn.ai funciona perfectamente en navegadores móviles con un diseño responsive optimizado para táctil. Una aplicación nativa llegará pronto a iOS y Android con notificaciones push y navegación offline."
+      }
+    ]
+  },
+  "cta_banner": {
+    "headline": "¿Listo para Crear Tu Fantasía?",
+    "subheadline": "Únete a más de 50,000 usuarios que generan contenido adulto IA personalizado",
+    "cta_text": "Iniciar Prueba Gratuita",
+    "trust_badges": [
+      "Seguro",
+      "Instantáneo",
+      "Cancelar en Cualquier Momento"
+    ]
+  },
+  "footer": {
+    "tagline": "El futuro del contenido adulto generado por IA",
+    "links_title": "Enlaces",
+    "social_title": "Redes",
+    "links": [
+      {"label": "Inicio", "href": "#hero"},
+      {"label": "Características", "href": "#features"},
+      {"label": "Precios", "href": "#pricing"},
+      {"label": "FAQ", "href": "#faq"},
+      {"label": "Programa de Afiliados", "href": "#"},
+      {"label": "Soporte", "href": "#"},
+      {"label": "Términos", "href": "#"},
+      {"label": "Privacidad", "href": "#"}
+    ],
+    "social": [
+      {"platform": "twitter", "href": "#"},
+      {"platform": "discord", "href": "#"},
+      {"platform": "reddit", "href": "#"}
+    ],
+    "copyright": "2026 JustPorn.ai - Todos los derechos reservados.",
+    "disclaimer": "Este sitio contiene contenido adulto generado por IA. Debes tener 18+ para usar este sitio. Todos los individuos representados son generados por IA y no son personas reales."
+  }
+}
