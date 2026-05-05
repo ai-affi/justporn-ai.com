@@ -424,7 +424,7 @@
     
     async function loadI18n() {
       try {
-        const response = await fetch('../content.json');
+        const response = await fetch('../ro/content.json');
         i18nData = await response.json();
         applyI18n();
         renderDynamicContent();
