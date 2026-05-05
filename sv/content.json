@@ -1,0 +1,371 @@
+{
+  "site": {
+    "name": "JustPorn.ai",
+    "tagline": "AI Pornografigenerator – Skapa anpassat vuxeninnehåll"
+  },
+  "meta": {
+    "title": "AI Pornografigenerator – Skapa anpassat vuxeninnehåll - JustPorn.ai",
+    "description": "Upptäck JustPorns AI-pornografigenerator för att enkelt skapa personligt, högkvalitativt vuxeninnehåll. Utforska vår avancerade AI-teknik för en unik upplevelse!",
+    "og_title": "AI Pornografigenerator – Skapa anpassat vuxeninnehåll - JustPorn.ai",
+    "og_description": "Upptäck JustPorns AI-pornografigenerator för att enkelt skapa personligt, högkvalitativt vuxeninnehåll."
+  },
+  "nav": {
+    "features": "Funktioner",
+    "how_it_works": "Hur det fungerar",
+    "pricing": "Priser",
+    "faq": "FAQ",
+    "cta_try_free": "Prova gratis",
+    "cta_premium": "Skaffa Premium"
+  },
+  "hero": {
+    "badge": "#1 AI Pornografigenerator 2026",
+    "h1_line1": "AI Pornografigenerator",
+    "h1_line2": "Skapa anpassat vuxeninnehåll",
+    "subtitle": "Upptäck JustPorns AI-pornografigenerator för att enkelt skapa personligt, högkvalitativt vuxeninnehåll. Utforska vår avancerade AI-teknik för en unik upplevelse!",
+    "social_proof": "50 000+ användare | 1M+ genererade bilder",
+    "cta_primary": "Generera nu",
+    "cta_secondary": "Visa priser",
+    "video_placeholder": "Titta på demovideo",
+    "live_indicator": "Live-generering",
+    "generations_counter": "1M+ genererade"
+  },
+  "features": {
+    "title": "Kraftfulla funktioner",
+    "subtitle": "Allt du behöver för att enkelt skapa fantastiskt AI-genererat vuxeninnehåll",
+    "items": [
+      {
+        "icon": "palette",
+        "title": "AI-bildgenerator",
+        "description": "Skapa realistiska, anime- eller fantasy-NSFW-bilder på några sekunder med våra avancerade AI-modeller."
+      },
+      {
+        "icon": "video",
+        "title": "AI-videogenerator",
+        "description": "Generera korta vuxenvideor med AI-drivna rörelser och mjuka övergångar."
+      },
+      {
+        "icon": "target",
+        "title": "Positionsval",
+        "description": "Välj bland 100+ positioner för att perfekta ditt innehåll och väcka dina fantasier till liv."
+      },
+      {
+        "icon": "sparkles",
+        "title": "Utseendeanpassning",
+        "description": "Anpassa varje detalj: kroppstyp, ansikte, outfit, miljö och mer för fullständigt personligt innehåll."
+      },
+      {
+        "icon": "lock",
+        "title": "Privat & säker",
+        "description": "100% konfidentiellt. Ditt innehåll är privat som standard och skyddat med avancerad kryptering."
+      },
+      {
+        "icon": "zap",
+        "title": "Snabb generering",
+        "description": "Högkvalitativa resultat på under 10 sekunder. Ingen väntan, bara skapande."
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "Hur fungerar JustPorn.ai?",
+    "subtitle": "Kom igång på några minuter med vår enkla 4-stegsprocess",
+    "steps": [
+      {
+        "step": 1,
+        "title": "Registrera dig",
+        "description": "Skapa ett gratis konto på 30 sekunder. Inget kreditkort krävs."
+      },
+      {
+        "step": 2,
+        "title": "Välj läge",
+        "description": "Välj mellan realistisk, anime- eller fantasy-stil för ditt innehåll."
+      },
+      {
+        "step": 3,
+        "title": "Välj position",
+        "description": "Välj den perfekta positionen från vårt omfattande bibliotek som matchar din vision."
+      },
+      {
+        "step": 4,
+        "title": "Generera",
+        "description": "Få ditt anpassade AI-innehåll omedelbart. Ladda ner, spara eller skapa mer."
+      }
+    ],
+    "detailed": {
+      "title": "Hur fungerar JustPorn.ai?",
+      "subtitle": "Din kompletta guide till att skapa AI-vuxeninnehåll",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Skapa ditt gratis konto",
+          "description": "Registrera dig på några sekunder med bara din e-post. Inget kreditkort krävs för att börja. Få 100 gratis tokens varje månad för att utforska plattformen och testa våra AI-genereringsmöjligheter."
+        },
+        {
+          "step": 2,
+          "title": "Välj din innehållstyp",
+          "description": "Välj mellan realistiska, anime- eller fantasy-lägen. Varje läge använder specialiserade AI-modeller tränade för specifika visuella stilar. Välj bland 100+ positioner eller beskriv ditt eget anpassade scenario."
+        },
+        {
+          "step": 3,
+          "title": "Anpassa varje detalj",
+          "description": "Använd våra avancerade anpassningsverktyg för att justera kroppstyp, ansiktsdrag, kläder, miljöer och belysning. AI:n förstår detaljerade uppmaningar för fullt personliga NSFW-visualiseringar."
+        },
+        {
+          "step": 4,
+          "title": "Generera & njut",
+          "description": "Tryck på generera och få högkvalitativa resultat på under 10 sekunder. Ladda ner, spara i ditt privata galleri eller fortsätt att förfina. Premiumanvändare låser upp videor, röstmeddelanden och snabbare hastigheter."
+        }
+      ]
+    }
+  },
+  "comparison": {
+    "title": "JustPorn.ai vs Andra AI-vuxengeneratorer",
+    "subtitle": "Se varför användare väljer JustPorn.ai framför konkurrenterna",
+    "intro": "Marknaden för AI-vuxeninnehåll har exploderat med alternativ, men inte alla generatorer levererar samma kvalitet, hastighet och integritet. Vi jämförde JustPorn.ai med de populäraste alternativen för att visa dig exakt vad som skiljer oss åt.",
+    "table": {
+      "headers": ["Funktion", "JustPorn.ai", "DarLink AI", "LusyChat", "eHentai", "MyLovely"],
+      "rows": [
+        ["Gratis månatliga tokens", "100 tokens", "Begränsad", "Myntsystem", "Ingen", "Gratis nivå"],
+        ["Obegränsade gratis meddelanden", "Ja", "Nej", "Nej", "N/A", "Ja"],
+        ["Bildgenerering", "HD-kvalitet", "Standard", "Standard", "HD hentai", "Standard"],
+        ["Videogenerering", "Ingår", "Tillgänglig", "Inte tillgänglig", "Inte tillgänglig", "Inte tillgänglig"],
+        ["Röstmeddelanden", "Upplåst", "Tillgänglig", "Inte tillgänglig", "N/A", "Inte tillgänglig"],
+        ["Svarstid", "5x snabbare", "Standard", "Standard", "Standard", "Standard"],
+        ["Sekretess & kryptering", "Avancerad", "Grundläggande", "Grundläggande", "Grundläggande", "Grundläggande"],
+        ["Anpassade positioner", "100+", "Begränsad", "20+", "N/A", "Begränsad"],
+        ["Anime/Fantasy-lägen", "Ja", "Ja", "Ja", "Endast hentai", "Begränsad"],
+        ["NSFW/SFW-växel", "Ja", "Ja", "Ja", "Endast NSFW", "Ja"],
+        ["Pris (månadsvis)", "$7.99", "$12.99", "$9.99", "Varierar", "$9.99"],
+        ["Provisionsgrad", "50%", "20%", "20%", "40%", "50%"]
+      ]
+    },
+    "sections": [
+      {
+        "title": "Mer gratis värde",
+        "content": "Medan de flesta konkurrenter erbjuder begränsad eller ingen gratis generering, ger JustPorn.ai dig 100 gratis tokens varje månad plus obegränsade gratis meddelanden. DarLink AI och LusyChat begränsar gratis användare kraftigt, medan eHentai inte erbjuder någon gratis nivå alls. Testa plattformen noggrant innan du förbinder dig till premium."
+      },
+      {
+        "title": "Snabbare genereringshastighet",
+        "content": "Vår optimerade infrastruktur levererar resultat upp till 5x snabbare än konkurrerande plattformar. Vad som tar 30-60 sekunder på DarLink AI, LusyChat eller MyLovely händer på under 10 sekunder på JustPorn.ai. Ingen mer väntan på ditt innehåll."
+      },
+      {
+        "title": "Komplett funktionsuppsättning",
+        "content": "Till skillnad från konkurrenter som låser videor och röst bakom dyra nivåer inkluderar JustPorn.ai videogenerering, röstmeddelanden och fotoupplåsning i alla premiumplaner. DarLink AI tar extra betalt för video, medan LusyChat, eHentai och MyLovely inte erbjuder videogenerering alls."
+      },
+      {
+        "title": "Bättre integritetsskydd",
+        "content": "Vi använder avancerad kryptering och delar aldrig dina data. Dina genereringar är som standard privata utan vattenstämplar på premiuminnehåll. Medan alla plattformar påstår sig ha integritet, går JustPorn.ai längre med schweiziska krypteringsstandarder."
+      },
+      {
+        "title": "DarLink AI – Begränsad gratisnivå",
+        "content": "DarLink AI marknadsför sig som en gratis AI-flickvängenerator med chatt, foton och videofunktioner. Deras gratisnivå är dock extremt begränsad – du får knappt tillräckligt med tokens för att testa plattformen. Baserat i Schweiz under FAMELINK SA fokuserar DarLink AI mer på flickvänssimuleringsaspekten än på ren innehållsgenerering. Deras priser börjar på $12.99/månad med endast 20% affiliate-provision. Även om de erbjuder NSFW/SFW-växel och anpassade karaktärer kräver deras videogenerering dyra tillägg och deras svarstider är märkbart långsammare än JustPorn.ai. Plattformen känns mer som en dejting-sim än ett seriöst innehållsskapande verktyg."
+      },
+      {
+        "title": "LusyChat – Myntsystemsfälla",
+        "content": "LusyChat fungerar med ett frustrerande myntbaserat system där gratis användare snabbt får slut på valuta och ständigt måste köpa mer. Deras NSFW-karaktärs AI-chatt fokuserar starkt på rollspel snarare än visuell innehållsgenerering. Även om de erbjuder karaktärsskapande och bildgenerering är kvaliteten på sin höjd standard. Deras 70% RABATT-erbjudanden är vilseledande – grundpriserna är uppblåsta för att få rabatter att verka större. Till $9.99/månad med endast 20% affiliate-provision ger LusyChat dåligt värde jämfört med JustPorn.ais enkla tokensystem. De saknar också helt videogenerering och deras röstfunktioner är obefintliga. Plattformen är mer lämplig för textbaserade rollspelsentusiaster än seriösa innehållsskapare."
+      },
+      {
+        "title": "eHentai – Nischbegränsningar",
+        "content": "eHentai.ai specialiserar sig uteslutande på AI-hentai-konstgenerering, vilket omedelbart begränsar dess attraktion till en snäv publik. Till skillnad från JustPorn.ai som erbjuder realistiska, anime- och fantasy-lägen är eHentai låst till en enda stil. De erbjuder ingen gratisnivå alls – du måste betala innan du genererar något. Deras provisionsstruktur på 40% verkar attraktiv tills du inser att plattformen inga chattfunktioner, videogenerering, röstmöjligheter eller flickvänssimuleringsaspekter har. Priserna är varierande och ogenomskinliga, vilket gör det svårt att budgetera. För användare som vill ha olika innehållstyper bortom hentai är eHentai helt enkelt inte ett livskraftigt alternativ. JustPorn.ai täcker hentai-publiken samtidigt som den betjänar många andra."
+      },
+      {
+        "title": "MyLovely – Grundläggande funktioner",
+        "content": "MyLovely AI positionerar sig som en gratis AI-flickvänschatt och kärlekssimulator, men verkligheten lever inte upp till marknadsföringen. Även om de erbjuder en gratisnivå är funktionsuppsättningen extremt grundläggande jämfört med JustPorn.ai. MyLovely saknar helt videogenerering, erbjuder inga röstmeddelanden, och deras bildgenereringskvalitet är på sin höjd standard. Urvalet av anpassade positioner är minimalt och anime/fantasy-lägena är starkt begränsade. Till $9.99/månad med 50% provision verkar priserna konkurrenskraftiga tills du räknar in de saknade funktionerna. MyLovely fungerar som en enkel chattbot men misslyckas som en omfattande innehållsskapande plattform. Användare växer snabbt ur dess kapacitet och migrerar till mer avancerade lösningar som JustPorn.ai."
+      },
+      {
+        "title": "Varför JustPorn.ai vinner",
+        "content": "JustPorn.ai dominerar AI-vuxeninnehållsområdet genom att kombinera de bästa funktionerna från alla konkurrenter samtidigt som vi eliminerar deras svagheter. Vi erbjuder 100 gratis månatliga tokens med obegränsade meddelanden – generösare än DarLink AIs begränsningar, LusyChats myntfällor, eHentais betalvägg och jämförbart med MyLovelys begränsade gratisnivå. Vår videogenerering ingår, inte extra som hos DarLink AI eller obefintlig som hos de andra. Vi erbjuder 100+ anpassade positioner jämfört med de begränsade biblioteken på andra håll. Vår 5x snabbare svarstid innebär mindre väntan och mer skapande. Med HD-kvalitet över realistiska, anime- och fantasy-lägen, avancerad integritetskryptering och transparent prissättning på $7.99/månad levererar JustPorn.ai oöverträffat värde. De 50% affiliate-provisionen är bland de högsta i branschen, vilket bevisar vårt förtroende för produkten."
+      }
+    ],
+    "cta": "Upplev skillnaden – Prova JustPorn.ai gratis"
+  },
+  "pricing": {
+    "title": "Välj din plan",
+    "subtitle": "Tidsbegränsat erbjudande – Upp till 75% rabatt på ditt första abonnemang!",
+    "most_popular": "Mest populära",
+    "promo_label": "Tidsbegränsat erbjudande",
+    "promo_text": "Upp till 75% rabatt på ditt första abonnemang!",
+    "pay_by": "Betala med:",
+    "promocode": "Promokod",
+    "plans": [
+      {
+        "id": "free",
+        "name": "Gratis",
+        "badge": null,
+        "badge_color": null,
+        "price": "$0",
+        "period": "för alltid",
+        "features": [
+          "Obegränsade gratis meddelanden",
+          "100 gratis tokens per månad",
+          "Generera bilder & lås upp foton",
+          "Lås upp röstmeddelanden",
+          "Lås upp videor",
+          "5x snabbare svarstid",
+          "Lås upp alla premiumfunktioner"
+        ],
+        "cta_text": "Registrera dig gratis",
+        "popular": false
+      },
+      {
+        "id": "trial",
+        "name": "7-dagars provperiod",
+        "badge": "7 dagars prov",
+        "badge_color": "blue",
+        "price_initial": "$2.99",
+        "price_rebill": "$14.99",
+        "period": "i 7 dagar",
+        "features": [
+          "Alla premiumfunktioner + 50 tokens",
+          "Full åtkomst i 7 dagar",
+          "Säg upp när som helst"
+        ],
+        "cta_text": "Starta provperiod",
+        "popular": false
+      },
+      {
+        "id": "monthly",
+        "name": "Månadsvis",
+        "badge": "50% RABATT",
+        "badge_color": "green",
+        "price_initial": "$7.99",
+        "price_rebill": "$14.99",
+        "price_old": "$14.99",
+        "save_amount": "$7.00",
+        "period": "/månad",
+        "features": [
+          "Alla premiumfunktioner",
+          "200 tokens per månad",
+          "Prioritetsgenerering",
+          "Ingen vattenstämpel"
+        ],
+        "cta_text": "Prenumerera",
+        "popular": true
+      },
+      {
+        "id": "quarterly",
+        "name": "Per 3 månader",
+        "badge": "70% RABATT",
+        "badge_color": "orange",
+        "price_initial": "$15.99",
+        "price_rebill": "$29.99",
+        "price_old": "$29.99",
+        "save_amount": "$14.00",
+        "period": "$5.33/månad",
+        "features": [
+          "Alla premiumfunktioner",
+          "200 tokens per månad",
+          "Prioritetsupport",
+          "Spara $14.00"
+        ],
+        "cta_text": "Prenumerera",
+        "popular": false
+      },
+      {
+        "id": "annual",
+        "name": "Årligen",
+        "badge": "80% RABATT",
+        "badge_color": "gold",
+        "price_initial": "$49.99",
+        "price_rebill": "$89.99",
+        "price_old": "$89.99",
+        "save_amount": "$40.00",
+        "period": "$4.17/månad",
+        "features": [
+          "Alla premiumfunktioner",
+          "200 tokens per månad",
+          "VIP tidig åtkomst",
+          "Spara $40.00"
+        ],
+        "cta_text": "Få bästa erbjudandet",
+        "popular": false
+      },
+      {
+        "id": "vip",
+        "name": "VIP-åtkomst",
+        "badge": "Begränsad tillgänglighet",
+        "badge_color": "red",
+        "price": "$29.99",
+        "period": "/månad",
+        "features": [
+          "500 tokens per månad",
+          "Exklusiva AI-modeller",
+          "Tillgång till betafunktioner",
+          "Direkt supportkanal",
+          "Begäran om anpassade modeller"
+        ],
+        "cta_text": "Bli VIP",
+        "popular": false
+      }
+    ]
+  },
+  "faq": {
+    "title": "Vanliga frågor",
+    "subtitle": "Allt du behöver veta om JustPorn.ai",
+    "items": [
+      {
+        "question": "Är JustPorn.ai gratis att använda?",
+        "answer": "Ja! Du får obegränsade gratis meddelanden och 100 gratis tokens varje månad. Premiumplaner låser upp ytterligare funktioner som snabbare generering, videoskapande och fler tokens."
+      },
+      {
+        "question": "Vilket innehåll kan jag generera?",
+        "answer": "JustPorn.ai skapar AI-genererade vuxenbilder och -videor i realistiska, anime- och fantasy-stilar. Allt innehåll är fiktivt och AI-genererat. Vi tillåter inte innehåll som avbildar verkliga personer utan samtycke."
+      },
+      {
+        "question": "Är min integritet skyddad?",
+        "answer": "Absolut. Vi använder avancerad kryptering och delar aldrig dina data. Dina genereringar är som standard privata, och vi lagrar ingen personlig information utöver vad som behövs för ditt konto."
+      },
+      {
+        "question": "Hur fungerar tokens?",
+        "answer": "Varje generering kostar tokens. Gratis användare får 100 tokens månadsvis. Betalda planer inkluderar månatliga tokentilldelningar (200-500 beroende på din plan). Extra tokens kan köpas när som helst från ditt konto."
+      },
+      {
+        "question": "Kan jag säga upp mitt abonnemang?",
+        "answer": "Ja, du kan säga upp när som helst från dina kontoinställningar. Inga frågor ställda. Om du säger upp under en provperiod debiteras du inte. Årliga planer kan sägas upp inom 30 dagar med proportionell återbetalning."
+      },
+      {
+        "question": "Vilka betalningsmetoder accepteras?",
+        "answer": "Vi accepterar alla större kreditkort (Visa, Mastercard, Amex), PayPal och kryptovaluta (Bitcoin, Ethereum) för maximal integritet och diskretion."
+      },
+      {
+        "question": "Är de genererade bilderna realistiska?",
+        "answer": "Vår AI producerar högkvalitativa realistiska bilder, plus anime- och fantasy-stilar. Resultaten förbättras ständigt med modelluppdateringar. Det realistiska läget använder state-of-the-art diffusionsmodeller för livlika resultat."
+      },
+      {
+        "question": "Finns det en mobilapp?",
+        "answer": "JustPorn.ai fungerar perfekt på mobila webbläsare med en responsiv design optimerad för pekning. En inbyggd app för iOS och Android med push-notiser och offline-surfning kommer snart."
+      }
+    ]
+  },
+  "cta_banner": {
+    "headline": "Redo att skapa din fantasi?",
+    "subheadline": "Gå med bland 50 000+ användare som genererar anpassat AI-vuxeninnehåll",
+    "cta_text": "Starta gratis provperiod",
+    "trust_badges": [
+      "Säker",
+      "Omedelbar",
+      "Säg upp när som helst"
+    ]
+  },
+  "footer": {
+    "tagline": "Framtiden för AI-genererat vuxeninnehåll",
+    "links_title": "Länkar",
+    "social_title": "Socialt",
+    "links": [
+      {"label": "Hem", "href": "#hero"},
+      {"label": "Funktioner", "href": "#features"},
+      {"label": "Priser", "href": "#pricing"},
+      {"label": "FAQ", "href": "#faq"},
+      {"label": "Affiliateprogram", "href": "#"},
+      {"label": "Support", "href": "#"},
+      {"label": "Villkor", "href": "#"},
+      {"label": "Integritet", "href": "#"}
+    ],
+    "social": [
+      {"platform": "twitter", "href": "#"},
+      {"platform": "discord", "href": "#"},
+      {"platform": "reddit", "href": "#"}
+    ],
+    "copyright": "2026 JustPorn.ai – Alla rättigheter förbehålls.",
+    "disclaimer": "Denna webbplats innehåller AI-genererat vuxeninnehåll. Du måste vara 18+ för att använda denna webbplats. Alla avbildade personer är AI-genererade och inte riktiga människor."
+  }
+}
